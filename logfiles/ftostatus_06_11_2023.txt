@@ -1,0 +1,4 @@
+11-Jun-23 12:26:00 -INFO - Start time of the script
+11-Jun-23 12:29:11 -INFO - Data filter from html 
+11-Jun-23 12:29:11 -INFO - FTO_NO status paid
+11-Jun-23 12:29:11 -ERROR - Something went worng

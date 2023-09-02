@@ -1,0 +1,4 @@
+06-Jul-23 13:11:17 -INFO - Start time of the script
+06-Jul-23 13:14:41 -INFO - Data filter from html 
+06-Jul-23 13:14:41 -INFO - FTO_NO status paid
+06-Jul-23 13:14:42 -INFO - saved the  file to excel
